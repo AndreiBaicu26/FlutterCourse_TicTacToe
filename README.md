@@ -4,7 +4,7 @@ A Tic tac toe game made in flutter.
 
 ## What I learned
 
-* Working with matrixes in dart
+* Working with matrices in dart
 * How to use a GridView builder
 
 ## Quick demo
